@@ -1,6 +1,6 @@
 <img src = "Jaimil Dalwadi.png"/>
 
-⭐️ I am [Jaimil Dalwadi](https://github.com/theDe-bugger/), a high school student exploring and developing technologies, startups, and programs to make a difference.
+⭐️ I am [Jaimil Dalwadi](https://github.com/theDe-bugger/), a 17 year old developer passionate about helping others by building impactful programs and software. Most of my projects consist of web-applications accessible to anyone on the Internet, but I have also looked into application development 💻, competitive programming 🥇, ethical hacking 🤺, quantum computing :atom:, and more.
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=theDe-bugger&amp;bg_color=000000&amp;text_color=ff5bff&amp;title_color=9e2eff" alt="Jaimil&#39;s github stats"></a></p>
 
