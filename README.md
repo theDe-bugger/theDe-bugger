@@ -1,4 +1,4 @@
-⭐️ I am [Jaimil Dalwadi](https://jaimildalwadi.tech), a 20 year old developer passionate about helping others by building impactful programs and software. Most of my projects consist of web-applications accessible to anyone on the Internet, but I have also looked into application development💻 , competitive programming 🥇, ethical hacking 🤺, quantum computing :atom:, and more. Visit [my site](https://jaimil-dalwadi.netlify.app) to learn more!
+⭐️ I am [Jaimil Dalwadi](https://jaimildalwadi.netlify.app), a 20 year old developer passionate about helping others by building impactful programs and software. Most of my projects consist of web-applications accessible to anyone on the Internet, but I have also looked into application development💻 , competitive programming 🥇, ethical hacking 🤺, quantum computing :atom:, and more. Visit [my site](https://jaimil-dalwadi.netlify.app) to learn more!
 
 😄 I also love watching anime, reading books, working out, and meeting new people!
 
