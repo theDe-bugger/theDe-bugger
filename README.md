@@ -2,7 +2,7 @@
 
 😄 I also love watching anime, reading books, working out, and meeting new people!
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=theDe-bugger&amp;bg_color=000000&amp;text_color=ff5bff&amp;title_color=9e2eff" alt="Jaimil&#39;s github stats"></a></p>
+<!--<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=theDe-bugger&amp;bg_color=000000&amp;text_color=ff5bff&amp;title_color=9e2eff" alt="Jaimil&#39;s github stats"></a></p>-->
 
 ### 🚀 Languages I've Used: 
 <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
