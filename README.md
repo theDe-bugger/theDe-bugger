@@ -15,4 +15,4 @@
 
 
 ### My GitHub Stats
-![Jaimil's GitHub stats](https://github-readme-stats.vercel.app/api?username=theDE-bugger&theme=omni&show_icons=true)
+![Jaimil's GitHub stats](https://github-readme-stats.vercel.app/api?username=theDE-bugger&theme=react&show_icons=true)
