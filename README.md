@@ -16,3 +16,4 @@
 
 ### My GitHub Stats
 ![Jaimil's GitHub stats](https://github-readme-stats.vercel.app/api?username=theDE-bugger&theme=react&show_icons=true)
+* keep in mind a lot of my statistics come from private repositories which don't show above 👀 *
