@@ -12,3 +12,7 @@
 
 ### 🤝 Connect with me!<br>
   <a href="https://www.linkedin.com/in/jaimil-dalwadi/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/jaimil.d" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://devpost.com/theDebugger/" alt="Devpost"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"></a> <a href="mailto:jaimildalwadi2003@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+
+### My GitHub Stats
+![Jaimil's GitHub stats](https://github-readme-stats.vercel.app/api?username=theDE-bugger&theme=omni&show_icons=true)
