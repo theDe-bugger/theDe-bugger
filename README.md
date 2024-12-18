@@ -11,9 +11,10 @@
 <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"> <img src = "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src = "https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"> <img src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"> <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> 
 
 ### 🤝 Connect with me!<br>
-  <a href="https://www.linkedin.com/in/jaimil-dalwadi/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/jaimil.d" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://devpost.com/theDebugger/" alt="Devpost"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"></a> <a href="mailto:jaimildalwadi2003@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.linkedin.com/in/jaimil-dalwadi/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/jaimil.d" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://devpost.com/theDebugger/" alt="Devpost"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"></a> <a href="mailto:jaimil.dalwadi@uwaterloo.ca" alt="Contact me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 
-### My GitHub Stats
-![Jaimil's GitHub stats](https://github-readme-stats.vercel.app/api?username=theDE-bugger&theme=react&show_icons=true)
-* keep in mind a lot of my statistics come from private repositories which don't show above 👀 *
+<!-- #  ### My GitHub Stats
+[//]: # ![Jaimil's GitHub stats](https://github-readme-stats.vercel.app/api?username=theDE-bugger&theme=react&show_icons=true)
+[//]: #  keep in mind a lot of my statistics come from private repositories which don't show above 👀 * -->
+
